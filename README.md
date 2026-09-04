@@ -1,5 +1,5 @@
 # python-projects
-# Python Projects 🚀
+# Python Projects 🪐
 
 Hi! I'm learning Python and sharing my projects here.
 
@@ -8,4 +8,4 @@ Hi! I'm learning Python and sharing my projects here.
 - Number Guessing Game
 
 ## About Me 
-Future Aerospace Engineer 🚀
+Future Astrophysicist 🌌
